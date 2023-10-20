@@ -1,0 +1,76 @@
+#: locale=es
+
+## Acción
+
+### URL
+PopupWebFrameBehaviour_89734267_8638_5423_41D7_40BBB7C804F2.url = //www.youtube.com/embed/L150WFO_WxQ
+PopupWebFrameBehaviour_7C688EC9_70A4_F2D7_41DA_DB5DC878F28D.url = //www.youtube.com/embed/L150WFO_WxQ
+PopupWebFrameBehaviour_757440C3_6155_E30B_41B4_2CD5CD390D57.url = //www.youtube.com/embed/YAtwx9J4eZY
+PopupWebFrameBehaviour_88D85AA2_8638_D4DD_41A2_200E658162FE.url = //www.youtube.com/embed/YAtwx9J4eZY
+PopupWebFrameBehaviour_899BF1D8_8638_546D_41D3_35045AE25182.url = //www.youtube.com/embed/djnr52UlJ6g
+PopupWebFrameBehaviour_74AB226E_614E_271D_41B6_75FC7D1CFD73.url = //www.youtube.com/embed/djnr52UlJ6g
+PopupWebFrameBehaviour_7217172C_6156_ED1D_41B3_14C5B47A9F9E.url = //www.youtube.com/embed/geqmbHymtl0
+PopupWebFrameBehaviour_899A6108_863F_F5ED_41A0_7704EA732D9D.url = //www.youtube.com/embed/geqmbHymtl0
+PopupWebFrameBehaviour_7216F9CB_6156_E51B_419D_21BB97A0824E.url = //www.youtube.com/embed/woXdDL-Wm5Q
+PopupWebFrameBehaviour_8991FC2E_8638_2C25_41D4_1C77AAF47876.url = //www.youtube.com/embed/woXdDL-Wm5Q
+PopupWebFrameBehaviour_961E5E92_8638_6CFD_41CF_EAA3EFD1B3A9.url = //www.youtube.com/embed/yiebfhGy0Xs
+PopupWebFrameBehaviour_720DB5D9_6156_ED07_41C1_67F2FE8F8CFD.url = //www.youtube.com/embed/yiebfhGy0Xs
+
+## Hotspot
+
+### Texto
+HotspotPanoramaOverlayTextImage_777E81CB_61FE_651B_41C9_C7075B27CD00.text = ETAPA 1
+HotspotPanoramaOverlayTextImage_76073447_61FA_230B_41B6_F17E4F563CD5.text = ETAPA 2
+HotspotPanoramaOverlayTextImage_79D2C138_61CD_E505_41D4_3A4F953A6703.text = ETAPA 3
+HotspotPanoramaOverlayTextImage_797FCFD8_61CE_1D05_41C1_2C079D4056B1.text = ETAPA 4
+HotspotPanoramaOverlayTextImage_7909387D_61CA_E3FF_41AE_DEA404FB0064.text = ETAPA 5
+HotspotPanoramaOverlayTextImage_76F26BBB_61D6_257B_41C4_74647217496A.text = INICIO
+
+### Tooltip
+HotspotPanoramaOverlayArea_2D6BE48D_3E06_6570_41AA_1C7F3F88BF09.toolTip = Despulpadora 
+HotspotPanoramaOverlayArea_2EB3E436_3E02_2590_41BA_2232826956C0.toolTip = Germinacion
+HotspotPanoramaOverlayArea_2DE6CFB7_3E02_E290_41C9_E65F324DC08E.toolTip = Secador
+HotspotPanoramaOverlayArea_7924A326_61D6_650D_41D0_3057168485BD.toolTip = Secador
+
+## Media
+
+### Audio
+audiores_7528A18C_614B_E51D_41CC_6293344F2AD7.mp3Url = media/audio_752F418D_614B_E51F_41D2_3EAA02FDDE76_es.mp3
+audiores_755E9189_613A_2507_41C6_68C981F57B6E.mp3Url = media/audio_75FE2680_613B_EF05_4190_04BA10BA1F5C_es.mp3
+audiores_755E9189_613A_2507_41C6_68C981F57B6E.mp3Url = media/audio_75FE2680_613B_EF05_4190_04BA10BA1F5C_es.mp3
+audiores_755E9189_613A_2507_41C6_68C981F57B6E.mp3Url = media/audio_75FE2680_613B_EF05_4190_04BA10BA1F5C_es.mp3
+audiores_755E9189_613A_2507_41C6_68C981F57B6E.mp3Url = media/audio_75FE2680_613B_EF05_4190_04BA10BA1F5C_es.mp3
+audiores_755E9189_613A_2507_41C6_68C981F57B6E.mp3Url = media/audio_75FE2680_613B_EF05_4190_04BA10BA1F5C_es.mp3
+audiores_755E9189_613A_2507_41C6_68C981F57B6E.mp3Url = media/audio_75FE2680_613B_EF05_4190_04BA10BA1F5C_es.mp3
+
+### Imágen
+imlevel_783D45B2_61DA_6D05_41BF_6721A6B93DBB.url = media/panorama_3653571A_3DD1_58B3_4198_46BEE218AD92_HS_ktzv258s_es.webp
+imlevel_76B8B42D_61DA_631F_41C6_2EE71FBF833D.url = media/panorama_377430FB_3DD1_3971_417F_9F068756C2A9_HS_b596x7a1_es.webp
+imlevel_7822C618_61DA_6F05_41AF_2F37B41B88A9.url = media/panorama_3774E571_3DD1_7B71_41C3_5A5D84FE90D7_HS_rqmxchms_es.webp
+imlevel_78235681_61DA_6F07_41D8_4DCBF246177E.url = media/panorama_37758428_3DD1_589F_41CB_D134BDFEAF2B_HS_h2h49nry_es.webp
+imlevel_79E174D5_61DA_630F_41C0_88300B8E8D3E.url = media/panorama_3775851D_3DD1_F8B1_41C0_B2254D07B2C2_HS_nrq73qnr_es.webp
+imlevel_7821D6DE_61DA_6F3D_41CD_713161E0DCC5.url = media/panorama_3775D59D_3DD1_DBB1_41BF_78A8D693062B_HS_l6w8rg2g_es.webp
+
+### Subtítulos de Video
+
+### Título
+panorama_3653571A_3DD1_58B3_4198_46BEE218AD92.label = Cosecha
+panorama_3774E571_3DD1_7B71_41C3_5A5D84FE90D7.label = Despulpadora
+panorama_37758428_3DD1_589F_41CB_D134BDFEAF2B.label = Fermentacion
+panorama_377430FB_3DD1_3971_417F_9F068756C2A9.label = Inicio
+video_2F915EDC_3E02_2290_41B9_BF705C1160DD.label = MVI_3699
+panorama_3775D59D_3DD1_DBB1_41BF_78A8D693062B.label = Secador
+panorama_3775851D_3DD1_F8B1_41C0_B2254D07B2C2.label = Semillero
+
+### Video
+videolevel_40D93DE6_4EE8_323D_41C3_0D13856E6AD4.url = media/video_2F915EDC_3E02_2290_41B9_BF705C1160DD_es.m3u8
+videolevel_40D92DE6_4EE8_323D_41C1_8528645FD668.url = media/video_2F915EDC_3E02_2290_41B9_BF705C1160DD_es.mp4
+videolevel_40D93DE6_4EE8_323D_41C3_0D13856E6AD4.posterURL = media/video_2F915EDC_3E02_2290_41B9_BF705C1160DD_poster_es.jpg
+videolevel_40D92DE6_4EE8_323D_41C1_8528645FD668.posterURL = media/video_2F915EDC_3E02_2290_41B9_BF705C1160DD_poster_es.jpg
+
+## Tour
+
+### Descripción
+
+### Título
+tour.name = Tour Virtual 360 del Cafe
